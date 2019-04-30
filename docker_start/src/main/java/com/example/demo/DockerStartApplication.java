@@ -14,10 +14,6 @@ public class DockerStartApplication {
 	}
 	
 	
-	@GetMapping
-	String hellworld(){
-		
-		return "hello";
-	}
+	
 
 }

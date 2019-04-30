@@ -1,0 +1,1 @@
+	mvn package docker:build 으로 실행
